@@ -24,9 +24,9 @@ File in the SD card folder/credit
 
 MAIN FILE 
 
-* __Atmosphère__ 1.8.0 (pre-release) (https://github.com/Atmosphere-NX/Atmosphere)
-* __Hekate__ v6.2.2 (https://github.com/CTCaer/hekate)
-* __Beta sigpatches__ (https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/)
+* __Atmosphère__ 1.8.0 (pre-release) https://github.com/Atmosphere-NX/Atmosphere
+* __Hekate__ v6.2.2 https://github.com/CTCaer/hekate
+* __Beta sigpatches__ https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543
 
 Overlays
 
@@ -35,9 +35,7 @@ Overlays
 
 App in the gallery
 
-* __DBI__ v658 (https://github.com/rashevskyv/dbi/releases)
-* __aio-switch-updater__ v 15/11/23 (https://github.com/HamletDuFromage/aio-switch-updater)
+* __DBI__ v658 https://github.com/rashevskyv/dbi/releases
+* __aio-switch-updater__ v 15/11/23 https://github.com/HamletDuFromage/aio-switch-updater
 * __ReverseNX-Tool__ v3.2.0 https://github.com/masagrator/ReverseNX-Tool
 * __SaltyNX__ 1.0.0 https://github.com/masagrator/SaltyNX
-
-
