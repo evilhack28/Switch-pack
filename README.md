@@ -20,6 +20,6 @@ SD card file (all need to be copied to the root of your SD card))
 
 What's is inside the sd card file folder ? 
 
-Atmosphère 1.8.0 (pre-release) (https://github.com/Atmosphere-NX/Atmosphere)
-Hekate 6.2.2 (https://github.com/CTCaer/hekate)
+* __Atmosphère__ 1.8.0 (pre-release) (https://github.com/Atmosphere-NX/Atmosphere)
+* __Hekate 6.2.2__ (https://github.com/CTCaer/hekate)
 beta sigpatches 1.8.0 from (https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/) 
